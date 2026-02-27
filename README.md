@@ -1,53 +1,86 @@
 # web-open-source
 🌐 Web Open Source⁠ — Decentralized Infrastructure Project
 
-Web Open Source⁠ is a research and development initiative focused on defining a new network paradigm built on the peer-to-peer architecture of Hyphanet (the successor to Freenet).
+Web Open Source⁠ is a research-driven initiative exploring a next-generation decentralized web infrastructure built on the peer-to-peer architecture of Hyphanet (successor to Freenet).
 
-The project aims to address the structural limitations of the contemporary web by prioritizing:
+The project focuses on infrastructure-level decentralization rather than application-layer trends, aiming to address structural weaknesses of the modern web.
 
-🛡️ Data sovereignty
+🎯 Vision
 
-🏗️ Infrastructure resilience
+Web Open Source⁠ is designed around four foundational principles:
 
-🔓 Technological independence
+🛡️ Data Sovereignty — Users retain control over their data.
 
-🔐 Native privacy
+🏗️ Infrastructure Resilience — Elimination of single points of failure.
 
-🏛️ Core Pillars
-🧩 1. Decentralized Architecture
+🔐 Native Privacy — End-to-end encryption and anonymity by default.
 
-Adoption of P2P systems to eliminate single points of failure and reduce dependency on centralized infrastructures.
+🌍 Technological Independence — Reduced reliance on centralized platforms.
 
-🕊️ 2. Digital Integrity & Freedom
+🏛️ Core Architecture
 
-Implementation of censorship-resistant protocols to ensure the free circulation of information.
+Web Open Source⁠ is structured in conceptual layers:
 
-🔒 3. Privacy by Design
+🧱 Layer 1 — Network Infrastructure
 
-Development of systems with built-in anonymity and native end-to-end encryption at the architectural level.
+Built on distributed node architecture powered by Hyphanet.
 
-🌱 4. Sustainable Model
+🔑 Layer 2 — Identity & Authentication (Research Phase)
 
-Design of an ecosystem free from invasive advertising and tracking mechanisms.
+Exploration of decentralized identity models and distributed trust mechanisms.
 
-🛠️ Technical Objectives
+🌐 Layer 3 — Application Interface Layer
 
-🌍 Hyphanet Infrastructure Expansion
-Optimization and distribution of nodes to enhance network resilience and scalability.
+Web-accessible services operating over censorship-resistant infrastructure.
 
-📜 Web Open Source⁠ Standards Definition
-Research and development of decentralized identity protocols and distributed authentication systems.
+🔍 Threat Model
 
-🤝 Open Source Collaboration
-Creation of rigorous technical documentation and contribution guidelines to streamline developer onboarding.
+Web Open Source⁠ is designed to mitigate:
 
-👥 Community & Coordination
+Centralized censorship
 
-The project is developed openly and transparently.
-Developers 👨‍💻, security researchers 🧠, and advocates of digital freedom 🗽 are invited to contribute to the roadmap.
+Infrastructure shutdown attempts
 
-📦 Repository: GitHub — blue-terminal/web-open-source
+Mass surveillance architectures
 
-📡 Updates: @the-new-web.bsky.social
+Tracking-based monetization ecosystems
 
-📖 Technical documentation is currently under active development.
+🛠️ Technical Objectives (2026)
+
+📡 Expand and optimize Hyphanet node deployment
+
+📜 Draft decentralized identity protocol specifications
+
+📖 Publish technical documentation and architecture papers
+
+🧪 Develop experimental infrastructure prototypes
+
+📊 Project Status
+
+Web Open Source⁠ is currently in the research and architectural design phase.
+Initial documentation and experimental specifications will be published progressively.
+
+🤝 How to Contribute
+
+Developers, researchers, and privacy advocates are welcome.
+
+Fork the repository
+
+Open Issues for architectural discussions
+
+Submit Pull Requests for documentation or prototype contributions
+
+Coding standards and contribution guidelines will be defined in upcoming updates.
+
+🗺️ Roadmap (Draft)
+
+Q1 — Research documentation
+Q2 — Node configuration and infrastructure guidelines
+Q3 — Identity protocol draft
+Q4 — First experimental deployment
+
+📢 Community
+
+Repository: GitHub — blue-terminal/web-open-source
+
+Updates: @the-new-web.bsky.socia
